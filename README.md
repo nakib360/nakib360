@@ -32,7 +32,7 @@
   <a href="https://medium.com/@nakib360" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40"/>
   </a>
-  <a href="mailto:nakib360@gmail.com" target="_blank">
+  <a href="mailto:fliptechofficial@gmail.com" target="_blank">
     <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="gmail" height="30" width="40"/>
   </a>
 </p>
