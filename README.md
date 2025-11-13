@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Muhammad Nakib Uddin</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Muhammad Nakib Uddin</h1>
+<h3 align="center">Passionate MERN Stack Developer from Bangladesh</h3>
 
 ---
 
@@ -15,16 +15,16 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Currently learning **Next.js & TypeScript**  
-- 💬 Ask me about **MERN Stack, React, Node.js, MongoDB, Firebase**  
-- 🎯 Goal: To become a **Full-Stack Developer** at Google  
-- 📫 Reach me at **nakib360@gmail.com**  
-- 🌐 Portfolio: [nakib-360.web.app](https://nakib-360.web.app)
+### About Me  
+- Currently learning **Next.js & TypeScript**  
+- Ask me about **MERN Stack, React, Node.js, MongoDB, Firebase**  
+- Goal: To become a **Full-Stack Developer** at Google  
+- Reach me at **fliptechofficial@gmail.com**  
+- Portfolio: [nakib-360.web.app](https://nakib-360.web.app)
 
 ---
 
-### 🌐 Connect With Me  
+### Connect With Me  
 <p align="left">
   <a href="https://dev.to/nakib360" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### Languages & Tools  
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -78,7 +78,7 @@
 
 ---
 
-### 📊 GitHub Analytics  
+### GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakib360&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -90,13 +90,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakib360&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
-
----
-
-### 📝 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <h4 align="center">⭐ Show some love by starring my repositories! ⭐</h4>
