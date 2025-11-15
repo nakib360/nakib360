@@ -80,15 +80,19 @@
 
 ### GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakib360&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakib360&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakib360&theme=tokyonight" alt="GitHub Streak Stats" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakib360&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="250"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=nakib360&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="250"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakib360&theme=tokyonight" alt="GitHub Streak Stats" width="250"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <h4 align="center">⭐ Show some love by starring my repositories! ⭐</h4>
